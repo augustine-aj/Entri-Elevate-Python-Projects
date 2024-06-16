@@ -56,7 +56,7 @@ The project includes visualizations created using Matplotlib and Seaborn to enha
 The insights gained from the analysis can help in making informed decisions related to team management, hiring, and salary adjustments.
 
 
-# FIFA Players Data Analysis
+# FIFA Players Data Analysis-EDA
 
 ## Overview
 This project analyzes the FIFA players dataset to extract key insights about players' distribution across countries and clubs, salary ranges, physical attributes, and preferences.
