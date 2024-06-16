@@ -8,9 +8,9 @@ https://drive.google.com/file/d/1ppoT29eKCR_ZkoKBRbukutoGvpO8dSR7/view?usp=shari
 
 # EmployeeDataAnalysis-EDA
 
-Employee Data Analysis Project
-Overview
-This project aims to analyze a dataset containing information about employees, including their team, position, age, salary, and height. The analysis includes preprocessing steps, exploratory data analysis, and visualizations to gain insights into the dataset.
+  Employee Data Analysis Project
+  Overview
+  This project aims to analyze a dataset containing information about employees, including their team, position, age, salary, and height. The analysis includes preprocessing steps, exploratory data analysis, and visualizations to gain insights into the dataset.
 
 Dataset
 The dataset is stored in a CSV file (myexcel - myexcel.csv.csv) and contains the following columns:
