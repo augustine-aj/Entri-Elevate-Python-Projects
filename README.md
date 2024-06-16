@@ -94,9 +94,6 @@ The dataset contains the following columns:
 ## Conclusion
 The analysis provides valuable insights into the distribution, salaries, physical attributes, and preferences of FIFA players. These insights can help in making informed decisions in the sports industry.
 
----
-
-This comprehensive overview covers the key points of the project, including the preprocessing steps, analysis tasks, and insights gained. You can include this in your README file to provide a clear summary of your project.
 
 
 
