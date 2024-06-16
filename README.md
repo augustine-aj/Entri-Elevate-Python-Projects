@@ -20,8 +20,11 @@ Dataset:
 The dataset is stored in a CSV file (myexcel - myexcel.csv.csv) and contains the following columns:
 
 Team: The team to which the employee belongs.
+
 Position: The position of the employee.
+
 Age: The age of the employee.
+
 Salary: The salary of the employee.
 
 Preprocessing Steps:
