@@ -32,25 +32,25 @@ The dataset is stored in a CSV file (myexcel - myexcel.csv.csv) and contains the
 
 ## Analysis Tasks
 
-Team Distribution: Analyzing the distribution of employees across teams.
-Position Distribution: Analyzing the distribution of employees across positions.
-Age Group Distribution: Categorizing employees into age groups and analyzing the distribution.
-Team and Position Salary Expenditure: Analyzing the total salary expenditure of each team and position.
-Correlation between Age and Salary: Calculating the correlation coefficient between age and salary.
+1. **Team Distribution**: Analyzing the distribution of employees across teams.
+2. **Position Distribution**: Analyzing the distribution of employees across positions.
+3. **Age Group Distribution**: Categorizing employees into age groups and analyzing the distribution.
+4. **Team and Position Salary Expenditure**: Analyzing the total salary expenditure of each team and position.
+5. **Correlation between Age and Salary**: Calculating the correlation coefficient between age and salary.
 
 ## Insights Gained
 
-The distribution of employees across teams and positions.
-The most common age group and position.
-The team and position with the highest total salary expenditure.
-The correlation between age and salary.
+- The distribution of employees across teams and positions.
+- The most common age group and position.
+- The team and position with the highest total salary expenditure.
+- The correlation between age and salary.
 
 ## Graphical Representations
 
 Count plots and bar charts showing the distribution of employees across teams, positions, and age groups.
 Scatter plot showing the relationship between age and salary.
 
-Additional Information:
+## Additional Information:
 
 The project includes visualizations created using Matplotlib and Seaborn to enhance the analysis.
 The insights gained from the analysis can help in making informed decisions related to team management, hiring, and salary adjustments.
