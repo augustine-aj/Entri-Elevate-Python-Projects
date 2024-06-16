@@ -56,8 +56,6 @@ The project includes visualizations created using Matplotlib and Seaborn to enha
 The insights gained from the analysis can help in making informed decisions related to team management, hiring, and salary adjustments.
 
 
-#FifaDataset analysis
-
 # FIFA Players Data Analysis
 
 ## Overview
