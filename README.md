@@ -19,20 +19,16 @@ This project aims to analyze a dataset containing information about employees, i
 ## Dataset
 
 The dataset is stored in a CSV file (myexcel - myexcel.csv.csv) and contains the following columns:
-
-Team - The team to which the employee belongs.
-
-Position - The position of the employee.
-
-Age - The age of the employee.
-
-Salary - The salary of the employee.
+- Team - The team to which the employee belongs.
+- Position - The position of the employee.
+- Age - The age of the employee.
+- Salary - The salary of the employee.
 
 ## Preprocessing Steps
 
-Reading the CSV file into a Pandas DataFrame.
-Adding a new column 'height' with random values between 150 and 180.
-Checking for missing values and dropping rows with missing values if any are found.
+1. Reading the CSV file into a Pandas DataFrame.
+2. Adding a new column 'height' with random values between 150 and 180.
+3. Checking for missing values and dropping rows with missing values if any are found.
 
 ## Analysis Tasks
 
