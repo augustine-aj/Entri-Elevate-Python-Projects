@@ -3,10 +3,6 @@
 
 # Banking-system
 
-Attached video explanation
-
-https://drive.google.com/file/d/1ppoT29eKCR_ZkoKBRbukutoGvpO8dSR7/view?usp=sharing
-
 
 # EmployeeDataAnalysis-EDA
 
@@ -93,7 +89,9 @@ The dataset contains the following columns:
 The analysis provides valuable insights into the distribution, salaries, physical attributes, and preferences of FIFA players. These insights can help in making informed decisions in the sports industry.
 
 
+Attached video explanation
 
+https://drive.google.com/file/d/1ppoT29eKCR_ZkoKBRbukutoGvpO8dSR7/view?usp=sharing
 
 
 
